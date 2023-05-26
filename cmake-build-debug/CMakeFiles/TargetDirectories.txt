@@ -1,0 +1,3 @@
+C:/Studia/Informatyka_WIeIT/2-Rok/4-sem/Cpp_new/CppGame/cmake-build-debug/CMakeFiles/CppGame.dir
+C:/Studia/Informatyka_WIeIT/2-Rok/4-sem/Cpp_new/CppGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Studia/Informatyka_WIeIT/2-Rok/4-sem/Cpp_new/CppGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir

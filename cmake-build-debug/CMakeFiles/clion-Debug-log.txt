@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.3.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Studia\Informatyka_WIeIT\2-Rok\4-sem\Cpp_new\CppGame -B C:\Studia\Informatyka_WIeIT\2-Rok\4-sem\Cpp_new\CppGame\cmake-build-debug
+-- Found SFML .. in C:/SFML/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Studia/Informatyka_WIeIT/2-Rok/4-sem/Cpp_new/CppGame/cmake-build-debug

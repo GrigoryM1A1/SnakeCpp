@@ -1,0 +1,11 @@
+# ninja log v5
+8	975	7059489323498062	CMakeFiles/CppGame.dir/main.cpp.obj	a62c0dee8d58cc63
+1055	1496	7059489328667490	CppGame.exe	d2cad84c323a2788
+15	1055	7059489324287932	CMakeFiles/CppGame.dir/gameengine.cpp.obj	29cb1debb04e8ff5
+4	546	7058574603608991	CMakeFiles/CppGame.dir/snakesection.cpp.obj	b29da1a858a5e3cb
+18	894	7058772006378515	CMakeFiles/CppGame.dir/apple.cpp.obj	e2bd0df9e4642c7
+7	655	7059451202112633	CMakeFiles/CppGame.dir/wall.cpp.obj	b132bfb35833a80e
+4	1748	7059507786239563	CMakeFiles/CppGame.dir/gameengine.cpp.obj	29cb1debb04e8ff5
+1749	2169	7059507790149576	CppGame.exe	d2cad84c323a2788
+7	4543	7066439368437143	CMakeFiles/CppGame.dir/gameengine.cpp.obj	29cb1debb04e8ff5
+4549	6165	7066439384731956	CppGame.exe	d2cad84c323a2788
